@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HimoutoFX.vcxproj" Id="8d58c3c1-2504-4e5a-b2e6-18e078ecfb4e" />
+</Solution>

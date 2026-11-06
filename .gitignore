@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Build output
+x64/
+x86/
+Debug/
+Release/
+build/
+out/
+[Bb]in/
+[Oo]bj/
+
+# Compiler / debugger artifacts
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exe
+*.idb
+*.log
+*.tlog
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeUserPresets.json
+
+# Data (uncomment if your CSVs get large)
+# data/*.csv
